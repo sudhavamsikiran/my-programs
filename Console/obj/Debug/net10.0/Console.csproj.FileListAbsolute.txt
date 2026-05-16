@@ -1,0 +1,14 @@
+C:\Users\svkir\source\repos\Myprograms\Console\bin\Debug\net10.0\Console.exe
+C:\Users\svkir\source\repos\Myprograms\Console\bin\Debug\net10.0\Console.deps.json
+C:\Users\svkir\source\repos\Myprograms\Console\bin\Debug\net10.0\Console.runtimeconfig.json
+C:\Users\svkir\source\repos\Myprograms\Console\bin\Debug\net10.0\Console.dll
+C:\Users\svkir\source\repos\Myprograms\Console\bin\Debug\net10.0\Console.pdb
+C:\Users\svkir\source\repos\Myprograms\Console\obj\Debug\net10.0\Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svkir\source\repos\Myprograms\Console\obj\Debug\net10.0\Console.AssemblyInfoInputs.cache
+C:\Users\svkir\source\repos\Myprograms\Console\obj\Debug\net10.0\Console.AssemblyInfo.cs
+C:\Users\svkir\source\repos\Myprograms\Console\obj\Debug\net10.0\Console.csproj.CoreCompileInputs.cache
+C:\Users\svkir\source\repos\Myprograms\Console\obj\Debug\net10.0\Console.dll
+C:\Users\svkir\source\repos\Myprograms\Console\obj\Debug\net10.0\refint\Console.dll
+C:\Users\svkir\source\repos\Myprograms\Console\obj\Debug\net10.0\Console.pdb
+C:\Users\svkir\source\repos\Myprograms\Console\obj\Debug\net10.0\Console.genruntimeconfig.cache
+C:\Users\svkir\source\repos\Myprograms\Console\obj\Debug\net10.0\ref\Console.dll

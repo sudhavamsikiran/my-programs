@@ -1,0 +1,14 @@
+C:\Users\svkir\source\repos\Myprograms\singletonexample\bin\Debug\net10.0\singletonexample.exe
+C:\Users\svkir\source\repos\Myprograms\singletonexample\bin\Debug\net10.0\singletonexample.deps.json
+C:\Users\svkir\source\repos\Myprograms\singletonexample\bin\Debug\net10.0\singletonexample.runtimeconfig.json
+C:\Users\svkir\source\repos\Myprograms\singletonexample\bin\Debug\net10.0\singletonexample.dll
+C:\Users\svkir\source\repos\Myprograms\singletonexample\bin\Debug\net10.0\singletonexample.pdb
+C:\Users\svkir\source\repos\Myprograms\singletonexample\obj\Debug\net10.0\singletonexample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svkir\source\repos\Myprograms\singletonexample\obj\Debug\net10.0\singletonexample.AssemblyInfoInputs.cache
+C:\Users\svkir\source\repos\Myprograms\singletonexample\obj\Debug\net10.0\singletonexample.AssemblyInfo.cs
+C:\Users\svkir\source\repos\Myprograms\singletonexample\obj\Debug\net10.0\singletonexample.csproj.CoreCompileInputs.cache
+C:\Users\svkir\source\repos\Myprograms\singletonexample\obj\Debug\net10.0\singletonexample.dll
+C:\Users\svkir\source\repos\Myprograms\singletonexample\obj\Debug\net10.0\refint\singletonexample.dll
+C:\Users\svkir\source\repos\Myprograms\singletonexample\obj\Debug\net10.0\singletonexample.pdb
+C:\Users\svkir\source\repos\Myprograms\singletonexample\obj\Debug\net10.0\singletonexample.genruntimeconfig.cache
+C:\Users\svkir\source\repos\Myprograms\singletonexample\obj\Debug\net10.0\ref\singletonexample.dll

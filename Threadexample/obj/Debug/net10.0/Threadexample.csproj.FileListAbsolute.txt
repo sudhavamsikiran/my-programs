@@ -1,0 +1,14 @@
+C:\Users\svkir\source\repos\Myprograms\Threadexample\bin\Debug\net10.0\Threadexample.exe
+C:\Users\svkir\source\repos\Myprograms\Threadexample\bin\Debug\net10.0\Threadexample.deps.json
+C:\Users\svkir\source\repos\Myprograms\Threadexample\bin\Debug\net10.0\Threadexample.runtimeconfig.json
+C:\Users\svkir\source\repos\Myprograms\Threadexample\bin\Debug\net10.0\Threadexample.dll
+C:\Users\svkir\source\repos\Myprograms\Threadexample\bin\Debug\net10.0\Threadexample.pdb
+C:\Users\svkir\source\repos\Myprograms\Threadexample\obj\Debug\net10.0\Threadexample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svkir\source\repos\Myprograms\Threadexample\obj\Debug\net10.0\Threadexample.AssemblyInfoInputs.cache
+C:\Users\svkir\source\repos\Myprograms\Threadexample\obj\Debug\net10.0\Threadexample.AssemblyInfo.cs
+C:\Users\svkir\source\repos\Myprograms\Threadexample\obj\Debug\net10.0\Threadexample.csproj.CoreCompileInputs.cache
+C:\Users\svkir\source\repos\Myprograms\Threadexample\obj\Debug\net10.0\Threadexample.dll
+C:\Users\svkir\source\repos\Myprograms\Threadexample\obj\Debug\net10.0\refint\Threadexample.dll
+C:\Users\svkir\source\repos\Myprograms\Threadexample\obj\Debug\net10.0\Threadexample.pdb
+C:\Users\svkir\source\repos\Myprograms\Threadexample\obj\Debug\net10.0\Threadexample.genruntimeconfig.cache
+C:\Users\svkir\source\repos\Myprograms\Threadexample\obj\Debug\net10.0\ref\Threadexample.dll
